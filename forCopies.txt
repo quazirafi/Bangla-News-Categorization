@@ -1,0 +1,12 @@
+# fh = open('testfile2.txt','w')  
+# for i in range(0,len(predicted)):
+# 	fh.write(str(predicted[i]))
+# 	fh.write(' ')
+# 	fh.write(str(testTarget[i]))
+# 	fh.write("\n")
+# fh.close() 
+87
+509
+607
+1144
+1614
