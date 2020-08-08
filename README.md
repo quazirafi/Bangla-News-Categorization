@@ -6,7 +6,7 @@ Main project file is the following file:
 
 We publised two papers from this project. One of our works was published in "2017 20th International Conference of Computer and Information Technology (ICCIT), Dhaka, 2017". Here we discussed about the effects of different kernels of SVM in Bangla News Categorization. The paper can be found in the folling link:
 
-(DOI: 10.1109/ICBSLP.2018.8554844)[10.1109/ICBSLP.2018.8554844]
+[10.1109/ICBSLP.2018.8554844](DOI: 10.1109/ICBSLP.2018.8554844)
 
 Please cite our work if you find it useful:
 
